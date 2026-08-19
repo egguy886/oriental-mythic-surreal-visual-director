@@ -1,4 +1,0 @@
-interface:
-  display_name: "东方异境视觉导演"
-  short_description: "传统纹样驱动的东方神话超现实视觉与MJ双语提示词导演"
-  default_prompt: "使用 $oriental-mythic-surreal-visual-director 为‘桂花与月亮’设计一组东方异境主视觉。"
